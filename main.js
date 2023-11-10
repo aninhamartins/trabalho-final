@@ -1,0 +1,1 @@
+alert ("VOCÊ ESTÁ PREPARADO?");
